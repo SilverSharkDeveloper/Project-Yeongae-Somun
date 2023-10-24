@@ -93,11 +93,47 @@
   2. 쪽지<br> 
     -쪽지목록<br>
     -쪽지 상세
-   
+
+ ## 실제 화면
+ <details >
+  <summary style="font-size: 100 px;">화면 구성</summary>
+  
+  ![001](https://github.com/SilverSharkDeveloper/Project-Yeongae-Somun/assets/129861299/16267cc3-a02b-47b3-9064-148475ccf27a)
+  ![002](https://github.com/SilverSharkDeveloper/Project-Yeongae-Somun/assets/129861299/0660a22f-1db4-413e-a25f-80e1869bb13e)
+  ![003](https://github.com/SilverSharkDeveloper/Project-Yeongae-Somun/assets/129861299/281ad007-1acc-4ec6-8d6c-a7215c90afc0)
+  ![004](https://github.com/SilverSharkDeveloper/Project-Yeongae-Somun/assets/129861299/99aa163f-3033-4742-b35c-31970e612e8a)
+  ![005](https://github.com/SilverSharkDeveloper/Project-Yeongae-Somun/assets/129861299/9176d25f-7b86-4749-9a18-1e1efc0111c5)
+  ![006](https://github.com/SilverSharkDeveloper/Project-Yeongae-Somun/assets/129861299/18e2fee4-85a2-4ef5-8bb8-41b0810b360d)
+  ![007](https://github.com/SilverSharkDeveloper/Project-Yeongae-Somun/assets/129861299/1a37f7d4-3592-48ba-b52e-c8531c8b12e2)
+  ![008](https://github.com/SilverSharkDeveloper/Project-Yeongae-Somun/assets/129861299/8262e1d2-4f5b-4788-a746-352e5430053a)
+  ![009](https://github.com/SilverSharkDeveloper/Project-Yeongae-Somun/assets/129861299/6bd39409-6b96-4321-a90b-bc977cdc8d20)
+  ![010](https://github.com/SilverSharkDeveloper/Project-Yeongae-Somun/assets/129861299/ffbba2cb-370e-42fe-9bf2-911bb16d5ee5)
+  ![011](https://github.com/SilverSharkDeveloper/Project-Yeongae-Somun/assets/129861299/24507ec8-b34a-4ed8-a633-7cc371ad4006)
+  ![012](https://github.com/SilverSharkDeveloper/Project-Yeongae-Somun/assets/129861299/4af70a32-a075-4eae-8dbb-1f7d6a5c0490)
+  ![013](https://github.com/SilverSharkDeveloper/Project-Yeongae-Somun/assets/129861299/97bfde4c-9923-4733-a06c-4ae94b8c41fe)
+  ![014](https://github.com/SilverSharkDeveloper/Project-Yeongae-Somun/assets/129861299/f5f26cf3-4e17-4450-8a21-48a9af6bca50)
+  ![015](https://github.com/SilverSharkDeveloper/Project-Yeongae-Somun/assets/129861299/525f3819-94b4-44f0-a8f5-8b430b7c6c8e)
+
+
+
+ 
+</details>
+
 ### 백엔드 작업
  1. 로그인,회원가입<br>
  2. 쪽지<br>
 
+## Backend-FlowChart
+ <details >
+  <summary style="font-size: 100 px;">플로우차트</summary>
+
+
+   
+
+
+
+ 
+</details>
 
 ## ✨ 페이지흐름도
 
