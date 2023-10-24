@@ -39,7 +39,7 @@
 
 ## 🧑‍🤝‍🧑 맴버구성 - 백엔드 업무
   - 팀장  : 문우람 - 일일 체험, 창업품  리뷰, 관리자 페이지,메인페이지,
-  - 부팀장 : 허은상 - 로그인, 회원가입,  쪽지
+  - 부팀장 : 허은상 - 로그인, 회원가입,  쪽지, web-security
   - 팀원1 : 이동재 - 기업소개,스타트업소개,
   - 팀원2 : 정재히 - 마이 페이지, 검색
  
@@ -122,11 +122,19 @@
 ### 백엔드 작업
  1. 로그인,회원가입<br>
  2. 쪽지<br>
+ 3. web-security<br>
 
 ## Backend-FlowChart
  <details >
   <summary style="font-size: 100 px;">플로우차트</summary>
 
+![001](https://github.com/SilverSharkDeveloper/Project-Yeongae-Somun/assets/129861299/00cd810d-51fb-44c1-9dc2-062f1e7c6751)
+![002](https://github.com/SilverSharkDeveloper/Project-Yeongae-Somun/assets/129861299/e47f37a1-8e0f-474c-9065-d3efb6f775c9)
+![003](https://github.com/SilverSharkDeveloper/Project-Yeongae-Somun/assets/129861299/4344cc52-3bae-454a-a191-5090226af6df)
+![004](https://github.com/SilverSharkDeveloper/Project-Yeongae-Somun/assets/129861299/d2f707a4-1240-4e8d-9579-5ee2e5fd1cf2)
+![005](https://github.com/SilverSharkDeveloper/Project-Yeongae-Somun/assets/129861299/71eafde0-ff05-4f07-96d1-8d9023fd6fd4)
+![006](https://github.com/SilverSharkDeveloper/Project-Yeongae-Somun/assets/129861299/78146bd6-d7ed-419a-ac74-e9f548bbbe0e)
+![007](https://github.com/SilverSharkDeveloper/Project-Yeongae-Somun/assets/129861299/4b596ceb-40e7-41c8-8a99-a159559aa28c)
 
    
 
