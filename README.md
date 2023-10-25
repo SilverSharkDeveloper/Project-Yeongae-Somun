@@ -98,21 +98,22 @@
  <details >
   <summary style="font-size: 100 px;">화면 구성</summary>
   
-  ![001](https://github.com/SilverSharkDeveloper/Project-Yeongae-Somun/assets/129861299/16267cc3-a02b-47b3-9064-148475ccf27a)
-  ![002](https://github.com/SilverSharkDeveloper/Project-Yeongae-Somun/assets/129861299/0660a22f-1db4-413e-a25f-80e1869bb13e)
-  ![003](https://github.com/SilverSharkDeveloper/Project-Yeongae-Somun/assets/129861299/281ad007-1acc-4ec6-8d6c-a7215c90afc0)
-  ![004](https://github.com/SilverSharkDeveloper/Project-Yeongae-Somun/assets/129861299/99aa163f-3033-4742-b35c-31970e612e8a)
-  ![005](https://github.com/SilverSharkDeveloper/Project-Yeongae-Somun/assets/129861299/9176d25f-7b86-4749-9a18-1e1efc0111c5)
-  ![006](https://github.com/SilverSharkDeveloper/Project-Yeongae-Somun/assets/129861299/18e2fee4-85a2-4ef5-8bb8-41b0810b360d)
-  ![007](https://github.com/SilverSharkDeveloper/Project-Yeongae-Somun/assets/129861299/1a37f7d4-3592-48ba-b52e-c8531c8b12e2)
-  ![008](https://github.com/SilverSharkDeveloper/Project-Yeongae-Somun/assets/129861299/8262e1d2-4f5b-4788-a746-352e5430053a)
-  ![009](https://github.com/SilverSharkDeveloper/Project-Yeongae-Somun/assets/129861299/6bd39409-6b96-4321-a90b-bc977cdc8d20)
-  ![010](https://github.com/SilverSharkDeveloper/Project-Yeongae-Somun/assets/129861299/ffbba2cb-370e-42fe-9bf2-911bb16d5ee5)
-  ![011](https://github.com/SilverSharkDeveloper/Project-Yeongae-Somun/assets/129861299/24507ec8-b34a-4ed8-a633-7cc371ad4006)
-  ![012](https://github.com/SilverSharkDeveloper/Project-Yeongae-Somun/assets/129861299/4af70a32-a075-4eae-8dbb-1f7d6a5c0490)
-  ![013](https://github.com/SilverSharkDeveloper/Project-Yeongae-Somun/assets/129861299/97bfde4c-9923-4733-a06c-4ae94b8c41fe)
-  ![014](https://github.com/SilverSharkDeveloper/Project-Yeongae-Somun/assets/129861299/f5f26cf3-4e17-4450-8a21-48a9af6bca50)
-  ![015](https://github.com/SilverSharkDeveloper/Project-Yeongae-Somun/assets/129861299/525f3819-94b4-44f0-a8f5-8b430b7c6c8e)
+ ![001](https://github.com/SilverSharkDeveloper/Project-Yeongae-Somun/assets/129861299/b1748115-0e50-4e4a-b527-1d0ff632ce3c)
+![002](https://github.com/SilverSharkDeveloper/Project-Yeongae-Somun/assets/129861299/26965e22-26e6-4346-a086-34a34a4ca792)
+![003](https://github.com/SilverSharkDeveloper/Project-Yeongae-Somun/assets/129861299/d9692829-5e90-4fb2-a455-99e7ad67d66b)
+![004](https://github.com/SilverSharkDeveloper/Project-Yeongae-Somun/assets/129861299/ce969fcf-6a4b-46ed-9a92-e647478379da)
+![005](https://github.com/SilverSharkDeveloper/Project-Yeongae-Somun/assets/129861299/9bbb579b-924d-4a2f-93e2-ea14263374ea)
+![006](https://github.com/SilverSharkDeveloper/Project-Yeongae-Somun/assets/129861299/200df99a-8e78-4a28-8159-2f8f557149aa)
+![007](https://github.com/SilverSharkDeveloper/Project-Yeongae-Somun/assets/129861299/7119fdab-e893-4388-bfb6-05d8289e6a44)
+![008](https://github.com/SilverSharkDeveloper/Project-Yeongae-Somun/assets/129861299/b57eda89-2355-4c12-8c68-0e5fd015137f)
+![009](https://github.com/SilverSharkDeveloper/Project-Yeongae-Somun/assets/129861299/6a432418-d15f-437f-a60f-23daf43389de)
+![010](https://github.com/SilverSharkDeveloper/Project-Yeongae-Somun/assets/129861299/1a4d8aa3-94bd-4438-b726-9f18ade55eb9)
+![011](https://github.com/SilverSharkDeveloper/Project-Yeongae-Somun/assets/129861299/420f2106-8744-490c-86dd-a8b145ba920d)
+![012](https://github.com/SilverSharkDeveloper/Project-Yeongae-Somun/assets/129861299/b721f9dd-83a1-4eb7-80da-370a8d479b53)
+![013](https://github.com/SilverSharkDeveloper/Project-Yeongae-Somun/assets/129861299/20fb03cf-3a6e-40c8-8d2d-097425251d7c)
+![014](https://github.com/SilverSharkDeveloper/Project-Yeongae-Somun/assets/129861299/a5b02a58-59ec-41b0-8444-b5df82eb7e9f)
+![015](https://github.com/SilverSharkDeveloper/Project-Yeongae-Somun/assets/129861299/7ca015ce-7f19-469c-b31f-dac9fd129c21)
+
 
 
 
